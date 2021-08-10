@@ -25,7 +25,7 @@ public class TodoSocket {
     @OnMessage
     public String onMessage(String message) {
         System.out.println("messge received " + message);
-        return null;
+        return message;
     }
     
      @OnOpen
