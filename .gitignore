@@ -1,4 +1,4 @@
-
+target/
 target/TodoServer-1.0-SNAPSHOT.war
 target/classes/.netbeans_automatic_build
 target/test-classes/.netbeans_automatic_build
